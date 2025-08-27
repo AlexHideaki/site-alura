@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Lemon&display=swap');
 
 :root {
-    --Laranja: #ffa500;
+    --Laranja: #ff6600;
     --marrom-doce: #7B3F00;
     --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #ffffff;
-    --alto-contraste-link: #ffd700;
+    --alto-contraste-link: #ff7b00;
 }
 
 body {
@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #fff5f7;
+    background-color: #f17610;
 }
 
 section {
@@ -77,11 +77,11 @@ section {
 h2 {
     font-family: 'Lemon', serif;
     font-size: 2.5em;
-    color: var(--rosa-claro);
+    color: var(--Laranja);
 }
 
 #galeria {
-    background-color: #FFF8F0;
+    background-color: #f3880e;
 }
 
 .fundo-galeria {
@@ -111,7 +111,7 @@ h2 {
 }
 
 .form-control {
-    background-color: #f9eef1;
+    background-color: #ffa125;
 }
 
 /* Acessibilidade */
