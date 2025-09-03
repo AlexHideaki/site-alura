@@ -61,7 +61,7 @@ section {
     border: none;
     width: 14em;
     height: 3em;
-    color: white;
+    color: rgb(255, 123, 0);
     font-weight: bold;
     display: inline-flex;
     justify-content: center;
